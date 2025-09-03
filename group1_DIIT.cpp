@@ -13,7 +13,7 @@ Practical 1, Simple Calculator
 int main(){
     //Defining Variables
 
-    int num1, num2;
+    int num1, num3;
     int sum;
 
     //Processing user inputs
@@ -21,13 +21,13 @@ int main(){
     cin >> num1;
 
     cout << "Please enter the second number: \n";
-    cin >> num2 ;
+    cin >> num3 ;
 
 
 
 
     //Running Logics
-    sum = num1 + num2;
+    sum = num1 + num3;
 
 
     //Output
